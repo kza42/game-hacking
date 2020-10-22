@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="MInject, Version=1.0.6540.41804, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\MInject.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

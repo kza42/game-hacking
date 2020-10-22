@@ -1,2 +1,2 @@
-# trainers
+# Trainers
  Trainers for games
