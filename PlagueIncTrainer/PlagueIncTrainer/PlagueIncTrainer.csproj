@@ -7,7 +7,7 @@
 
     <ItemGroup>
       <Reference Include="MInject, Version=1.0.6540.41804, Culture=neutral, PublicKeyToken=null">
-        <HintPath>..\MInject.dll</HintPath>
+        <HintPath>..\..\MInject.dll</HintPath>
       </Reference>
     </ItemGroup>
 

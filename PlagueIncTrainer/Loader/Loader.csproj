@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MInject, Version=1.0.6540.41846, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\MInject.dll</HintPath>
+      <HintPath>..\..\MInject.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
