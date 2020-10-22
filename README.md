@@ -1,2 +1,2 @@
-# Trainers
- Trainers for games
+# Game hacking
+ Trainers and other stuff for games
